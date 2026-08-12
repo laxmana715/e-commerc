@@ -2,7 +2,7 @@
   "name": "project1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://laxmana715.github.io/SareeElegance",
+  "homepage": "https://laxmana715.github.io/project1",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -49,5 +49,9 @@
     "gh-pages": "^6.3.0",
     "postcss": "^8.5.23",
     "tailwindcss": "^3.4.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laxmana715/project1.git"
   }
 }
